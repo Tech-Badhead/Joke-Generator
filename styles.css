@@ -10,6 +10,7 @@ body {
   background-color: maroon;
   line-height: 1.6;
   font-family: 'Poppins', sans-serif;
+  height: 50vh;
 }
 
 .container {
@@ -58,6 +59,9 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+  .container {
+    margin: 11rem auto;
+  }
   .content div {
     font-size: 1.4rem;
   }
