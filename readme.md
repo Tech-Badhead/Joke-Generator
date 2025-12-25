@@ -6,7 +6,7 @@ A lightweight, punchy web application that fetches random Chuck Norris facts and
 
 - Instant Humor: Fetches fresh, randomized jokes at the click of a button.
 
-- XML Logic: Built with legacy JavaScript (XMLHttpRequest) for seamless, no-refresh updates.
+- XHR Logic: Built with legacy JavaScript (XMLHttpRequest) for seamless, no-refresh updates.
 
 - Responsive UI: Sleek, mobile-friendly design to get your fix of legendary facts on any device.
 
